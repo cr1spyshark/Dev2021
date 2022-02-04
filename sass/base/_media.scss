@@ -1,0 +1,24 @@
+@media (max-width: 768px) {
+  .promo{
+    &__wrapper{
+      align-items: center;
+    }
+    &__link{
+      padding-left: 13%;
+    }
+  }
+  .consultation{
+    &__descr{
+      text-align: center;
+    }
+    .title{
+      &_left{
+        text-align: center;
+      }
+    }
+  }
+  .feed-form{
+    transform: translateX(75%);
+  }
+}
+
