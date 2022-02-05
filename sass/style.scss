@@ -1,3 +1,14 @@
+@import "base/variable";
+@import "block/promo";
+@import "block/header";
+@import "block/buttons";
+@import "block/titles";
+@import "block/advantages";
+@import "block/consultation";
+@import "block/form";
+@import "block/carousel";
+@import "base/media";
+
 *{
   font-family: "Museo Sans Cyrl", sans-serif;
 }
@@ -11,13 +22,4 @@ a{
   margin: 0 auto;
 }
 
-@import "base/variable";
-@import "block/promo";
-@import "block/header";
-@import "block/buttons";
-@import "block/titles";
-@import "block/advantages";
-@import "block/consultation";
-@import "block/form";
-@import "base/media";
 
